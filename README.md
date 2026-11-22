@@ -66,14 +66,19 @@ Network connectivity was verified through ping tests between network devices and
 **Project:** Manufacturing Company Departmental Network  
 **Platform:** Cisco Packet Tracer
 
+
 ## Contributors
 
-<!-- Add the three group members' names here. -->
+1. **Prince Mahmud**
+2. **Abdul Momin**
+3. **Ahsanul Alam**
 
 ## Project Supervisor
 
-<!-- Add the supervisor's name and designation here. -->
+**Mahamuda Sultana Omi**  
+Lecturer  
+Department of Computer Science and Engineering (CSE)  
+CCN University of Science & Technology
 
----
 
 *Academic project developed as part of the Data Communication course.*
